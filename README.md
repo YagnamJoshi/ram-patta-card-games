@@ -1,6 +1,3 @@
-### Updated `README.md` Content
-
-```markdown
 # Ram Patta - Card Games Website
 
 Ram Patta is a web-based platform that allows users to play various card games. This platform includes popular games like Blackjack and Teen Patti, and offers traditional and multiplayer card games. The website is designed for a one-time play experience with no user data storage.
